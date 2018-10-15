@@ -16,7 +16,7 @@ using namespace std;
 		} stud1[5];
 		
 	//main()
-int main() {
+int main(int argc, char ***argv) {
 	double averageAge, averageScore;
 	int femaleCount = 0, maleCount = 0;
 	 
